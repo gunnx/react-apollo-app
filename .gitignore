@@ -1,0 +1,4 @@
+backend/.keystone
+frontend/.next
+frontend/.env.local
+backend/.env
